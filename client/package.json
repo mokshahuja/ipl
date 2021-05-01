@@ -19,7 +19,6 @@
     "react-scripts": "4.0.3",
     "react-spinners": "^0.10.6",
     "web-vitals": "^1.1.1",
-    "autoprefixer": "^9.8.6",
     "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2"
   },
@@ -46,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.8.6"
   }
 }
