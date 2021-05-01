@@ -46,7 +46,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "autoprefixer": "^9.8.6"
-  }
+  "devDependencies": {}
 }
