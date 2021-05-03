@@ -10,8 +10,7 @@ const Card = ({ id, url, name }) => {
      sm:hover:bg-gray-100 sm:hover:border-black sm:hover:text-black transition duration-200 transform sm:hover:scale-105 hover:cursor-pointer"
       >
         <img
-          className="block rounded-full h-12 sm:h-40 sm:w-40 ml-5
-        "
+          className="block rounded-full h-12 sm:h-40 sm:w-40 ml-5"
           src={url}
           alt={name}
         />
